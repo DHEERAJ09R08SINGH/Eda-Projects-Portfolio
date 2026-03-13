@@ -123,13 +123,21 @@ Free apps typically receive significantly more installs than paid apps.
 Each project follows a structured EDA process:
 
 1️⃣ Data Loading
+
 2️⃣ Dataset Overview
+
 3️⃣ Data Cleaning
+
 4️⃣ Missing Value Analysis
+
 5️⃣ Univariate Analysis
+
 6️⃣ Bivariate Analysis
+
 7️⃣ Correlation Analysis
+
 8️⃣ Data Visualization
+
 9️⃣ Insight Generation
 
 ---
